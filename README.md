@@ -13,7 +13,7 @@
 # pip install Colrama
 
 #TOOLS
+![image](https://user-images.githubusercontent.com/99751673/172466245-67d8e75f-ef84-45f3-8052-155a1e69f3c6.png)
 
-https://media.discordapp.net/attachments/982233208324227092/983814568717459496/Capture_decran_407.png?width=1154&height=674
 
 #By Mxtsouko
