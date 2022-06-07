@@ -2,8 +2,8 @@
 
 
 # MODULE 
-#1 pip install pystyle==2.0
-#2 pip install os
+# pip install pystyle==2.0
+# pip install os
 # pip install requests
 # pip install sys
 # pip install random
@@ -13,7 +13,7 @@
 # pip install Colrama
 
 #TOOLS
-![image](https://user-images.githubusercontent.com/99751673/172466245-67d8e75f-ef84-45f3-8052-155a1e69f3c6.png)
+(![image](https://user-images.githubusercontent.com/99751673/172468765-5b83fa0e-c404-408f-bca4-0dc44038a836.png)
 
 
 #By Mxtsouko
