@@ -13,7 +13,7 @@
 # pip install Colrama
 
 #TOOLS
-(![image](https://user-images.githubusercontent.com/99751673/172468765-5b83fa0e-c404-408f-bca4-0dc44038a836.png)
+![image](https://user-images.githubusercontent.com/99751673/172654467-05cce3e2-7012-4bf2-8858-7bcae5aa3513.png)
 
 
 #By Mxtsouko
